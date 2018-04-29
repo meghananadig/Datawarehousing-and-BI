@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_QkFVoCejEeexqqbm_0NTSQ" name="Reject_Codes" dataPackage="_QkFVoSejEeexqqbm_0NTSQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/vishal/Desktop/DWBI - Final Project/SOR Flat Files/Rejects_Codes.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_QkFVoSejEeexqqbm_0NTSQ" name="default" dataManager="_QkFVoCejEeexqqbm_0NTSQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_QkFVoiejEeexqqbm_0NTSQ" id="_KMloECejEeexqqbm_0NTSQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QkFVoyejEeexqqbm_0NTSQ" label="DI_Reject_Code" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QkFVpCejEeexqqbm_0NTSQ" label="DI_Reject_Reason" length="35" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QkFVpSejEeexqqbm_0NTSQ" label="DI_Reject_Description" length="37" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

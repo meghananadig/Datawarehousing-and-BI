@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_qeuxMSn9EeeLY8vsESEbKA" id="_qeuxMCn9EeeLY8vsESEbKA" label="FactStrategyPlan" purpose="fact strategyPlan" creationDate="2017-04-25T17:25:11.235-0400" modificationDate="2017-04-29T17:19:57.302-0400" version="0.1" statusCode="" item="_qeuxMyn9EeeLY8vsESEbKA" displayName="FactStrategyPlan">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_qeuxMin9EeeLY8vsESEbKA" path="Facts"/>
+  <TalendProperties:ProcessItem xmi:id="_qeuxMyn9EeeLY8vsESEbKA" property="_qeuxMSn9EeeLY8vsESEbKA" state="_qeuxMin9EeeLY8vsESEbKA">
+    <process href="FactStrategyPlan_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="__tiBpSYVEeesL6EhZOee5w" id="__thakCYVEeesL6EhZOee5w" label="cost_cny3" creationDate="2017-04-20T18:09:16.985-0400" modificationDate="2017-04-23T15:34:39.732-0400" version="0.1" statusCode="" item="__tiBpyYVEeesL6EhZOee5w" displayName="cost_cny3">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="__tiBpiYVEeesL6EhZOee5w" path="SCD"/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="__tiBpyYVEeesL6EhZOee5w" property="__tiBpSYVEeesL6EhZOee5w" state="__tiBpiYVEeesL6EhZOee5w">
+    <connection href="cost_cny3_0.1.item#__thakSYVEeesL6EhZOee5w"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

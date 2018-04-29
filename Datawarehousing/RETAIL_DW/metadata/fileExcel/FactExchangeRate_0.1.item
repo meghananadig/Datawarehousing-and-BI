@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_t8-3IShEEeeFFMju7w1pbg" name="FactExchangeRate" dataPackage="_t8-3IihEEeeFFMju7w1pbg" Server="Localhost 127.0.0.1" FilePath="C:/Users/vishal/Desktop/DWBI - Final Project/SOR Flat Files/FactExchangeRate.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="FactExchangeRate" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="FactExchangeRate:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_t8-3IihEEeeFFMju7w1pbg" name="default" dataManager="_t8-3IShEEeeFFMju7w1pbg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_t8-3IyhEEeeFFMju7w1pbg" id="_doFsUChEEeeFFMju7w1pbg" label="ExchangeRate">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_t8-3JChEEeeFFMju7w1pbg" label="CurrencyDateSK" length="8" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_t8-3JShEEeeFFMju7w1pbg" label="CurrencyDateKey" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_t8-3JihEEeeFFMju7w1pbg" label="CurrencyKey" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_t8-3JyhEEeeFFMju7w1pbg" label="CurrencyName" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_t8-3KChEEeeFFMju7w1pbg" label="EndOfDayRate" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

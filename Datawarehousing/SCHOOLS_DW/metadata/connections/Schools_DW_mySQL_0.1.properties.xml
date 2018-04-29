@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_PkeDIw3CEeeZu-8GbOd5zg" id="_FfohIA3CEeeZu-8GbOd5zg" label="Schools_DW_mySQL" purpose="mySQL" creationDate="2017-03-20T19:09:17.778-0400" modificationDate="2017-03-22T20:30:35.486-0400" version="0.1" statusCode="" item="_PkeDJQ3CEeeZu-8GbOd5zg" displayName="Schools_DW_mySQL">
+    <author href="../../talend.project#_s7Pxsg2HEeeNdv3lWpnl3A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_PkeDJA3CEeeZu-8GbOd5zg" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_PkeDJQ3CEeeZu-8GbOd5zg" property="_PkeDIw3CEeeZu-8GbOd5zg" state="_PkeDJA3CEeeZu-8GbOd5zg">
+    <connection href="Schools_DW_mySQL_0.1.item#_PkeDIA3CEeeZu-8GbOd5zg"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Gf3nAShZEeeeJKm7Udg65g" id="_Gf3nAChZEeeeJKm7Udg65g" label="Import_Cost_CNY" creationDate="2017-04-23T15:14:41.136-0400" modificationDate="2017-04-25T18:45:14.911-0400" version="0.1" statusCode="" item="_Gf3nAyhZEeeeJKm7Udg65g" displayName="Import_Cost_CNY">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Gf3nAihZEeeeJKm7Udg65g" path="Staging"/>
+  <TalendProperties:ProcessItem xmi:id="_Gf3nAyhZEeeeJKm7Udg65g" property="_Gf3nAShZEeeeJKm7Udg65g" state="_Gf3nAihZEeeeJKm7Udg65g">
+    <process href="Import_Cost_CNY_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

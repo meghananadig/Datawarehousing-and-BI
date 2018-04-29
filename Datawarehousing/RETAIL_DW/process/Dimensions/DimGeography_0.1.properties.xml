@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_igbKASbgEeeDPKYiDf3Cmw" id="_igbKACbgEeeDPKYiDf3Cmw" label="DimGeography" creationDate="2017-04-21T18:19:08.832-0400" modificationDate="2017-04-28T14:26:23.979-0400" version="0.1" statusCode="" item="_igbKAybgEeeDPKYiDf3Cmw" displayName="DimGeography">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_igbKAibgEeeDPKYiDf3Cmw" path="Dimensions"/>
+  <TalendProperties:ProcessItem xmi:id="_igbKAybgEeeDPKYiDf3Cmw" property="_igbKASbgEeeDPKYiDf3Cmw" state="_igbKAibgEeeDPKYiDf3Cmw">
+    <process href="DimGeography_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

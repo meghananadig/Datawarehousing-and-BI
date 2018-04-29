@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_t9RyEChEEeeFFMju7w1pbg" id="_t8-3IChEEeeFFMju7w1pbg" label="FactExchangeRate" purpose="excel fact exchange rate" creationDate="2017-04-23T12:48:46.482-0400" modificationDate="2017-04-23T12:47:11.218-0400" version="0.1" statusCode="" item="_t9RyEihEEeeFFMju7w1pbg" displayName="FactExchangeRate">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_t9RyEShEEeeFFMju7w1pbg" path=""/>
+  <TalendProperties:ExcelFileConnectionItem xmi:id="_t9RyEihEEeeFFMju7w1pbg" property="_t9RyEChEEeeFFMju7w1pbg" state="_t9RyEShEEeeFFMju7w1pbg">
+    <connection href="FactExchangeRate_0.1.item#_t8-3IShEEeeFFMju7w1pbg"/>
+  </TalendProperties:ExcelFileConnectionItem>
+</xmi:XMI>

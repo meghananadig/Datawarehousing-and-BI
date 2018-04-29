@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_gU4KUCeiEeexqqbm_0NTSQ" id="_gU3jQCeiEeexqqbm_0NTSQ" label="DimRejectCodes" creationDate="2017-04-22T17:27:36.565-0400" modificationDate="2017-04-27T21:08:12.886-0400" version="0.1" statusCode="" item="_gU4KUieiEeexqqbm_0NTSQ" displayName="DimRejectCodes">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_gU4KUSeiEeexqqbm_0NTSQ" path="Dimensions"/>
+  <TalendProperties:ProcessItem xmi:id="_gU4KUieiEeexqqbm_0NTSQ" property="_gU4KUCeiEeexqqbm_0NTSQ" state="_gU4KUSeiEeexqqbm_0NTSQ">
+    <process href="DimRejectCodes_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

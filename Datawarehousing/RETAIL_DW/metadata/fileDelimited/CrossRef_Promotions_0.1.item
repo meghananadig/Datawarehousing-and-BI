@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Mfg6gSn0EeeLY8vsESEbKA" name="CrossRef_Promotions" dataPackage="_Mfg6gin0EeeLY8vsESEbKA" Server="Localhost 127.0.0.1" FilePath="C:/Users/vishal/Desktop/DWBI - Final Project/SOR Flat Files/CrossRef_promotions.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_Mfg6gin0EeeLY8vsESEbKA" name="default" dataManager="_Mfg6gSn0EeeLY8vsESEbKA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Mfg6gyn0EeeLY8vsESEbKA" id="_HuIPICn0EeeLY8vsESEbKA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Mfg6hCn0EeeLY8vsESEbKA" label="PromotionKey" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Mfg6hSn0EeeLY8vsESEbKA" label="PromotionLabel" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Mfg6hin0EeeLY8vsESEbKA" label="PromotionName" length="38" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

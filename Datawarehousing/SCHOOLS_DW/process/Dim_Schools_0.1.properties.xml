@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_VUbPUQ5hEeejztX6UZCWgA" id="_VUbPUA5hEeejztX6UZCWgA" label="Dim_Schools" creationDate="2017-03-21T14:08:06.341-0400" modificationDate="2017-03-24T13:28:29.339-0400" version="0.1" statusCode="" item="_VUbPUw5hEeejztX6UZCWgA" displayName="Dim_Schools">
+    <author href="../talend.project#_s7Pxsg2HEeeNdv3lWpnl3A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_VUbPUg5hEeejztX6UZCWgA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_VUbPUw5hEeejztX6UZCWgA" property="_VUbPUQ5hEeejztX6UZCWgA" state="_VUbPUg5hEeejztX6UZCWgA">
+    <process href="Dim_Schools_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

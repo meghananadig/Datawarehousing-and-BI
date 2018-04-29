@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_TcALoShsEeeeJKm7Udg65g" name="cost_usd_4" dataPackage="_TcALoihsEeeeJKm7Udg65g" Server="Localhost 127.0.0.1" FilePath="C:/Users/vishal/Desktop/DWBI - Final Project/SOR Flat Files/cost_usd_steps_all/cost_usd_step_4_of_4.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Step4" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Step4:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_TcALoihsEeeeJKm7Udg65g" name="default" dataManager="_TcALoShsEeeeJKm7Udg65g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_TcALoyhsEeeeJKm7Udg65g" id="_OMidIChsEeeeJKm7Udg65g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TcALpChsEeeeJKm7Udg65g" label="ProductLabel" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TcALpShsEeeeJKm7Udg65g" label="CurrencyKey" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TcALpihsEeeeJKm7Udg65g" label="UnitCost" length="8" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TcALpyhsEeeeJKm7Udg65g" label="SCD_EffectiveDate" length="-1" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

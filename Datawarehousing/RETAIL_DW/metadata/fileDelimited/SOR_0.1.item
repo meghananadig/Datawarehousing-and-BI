@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_3M5I8SanEeeKXfEewdZ5ZA" name="SOR" dataPackage="_3M5I8ianEeeKXfEewdZ5ZA" Server="Localhost 127.0.0.1" FilePath="C:/Users/vishal/Desktop/DWBI - Final Project/excel mapping/SOR/SOR.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_3M5I8ianEeeKXfEewdZ5ZA" name="default" dataManager="_3M5I8SanEeeKXfEewdZ5ZA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_3M5I8yanEeeKXfEewdZ5ZA" id="_neogUCanEeeKXfEewdZ5ZA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3M5I9CanEeeKXfEewdZ5ZA" label="SOR_ID" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3M5I9SanEeeKXfEewdZ5ZA" label="SOR_System_ID" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3M5I9ianEeeKXfEewdZ5ZA" label="SOR_Table_Name" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3M5I9yanEeeKXfEewdZ5ZA" label="SOR_Description" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

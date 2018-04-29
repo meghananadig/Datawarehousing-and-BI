@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_2HpHUCeHEeexqqbm_0NTSQ" id="_2HmEACeHEeexqqbm_0NTSQ" label="DimPromotion" purpose="dimension promotion for destination" creationDate="2017-04-22T14:16:46.404-0400" modificationDate="2017-04-27T22:21:27.723-0400" version="0.1" statusCode="" item="_2HpHUieHEeexqqbm_0NTSQ" displayName="DimPromotion">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_2HpHUSeHEeexqqbm_0NTSQ" path="Dimensions"/>
+  <TalendProperties:ProcessItem xmi:id="_2HpHUieHEeexqqbm_0NTSQ" property="_2HpHUCeHEeexqqbm_0NTSQ" state="_2HpHUSeHEeexqqbm_0NTSQ">
+    <process href="DimPromotion_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

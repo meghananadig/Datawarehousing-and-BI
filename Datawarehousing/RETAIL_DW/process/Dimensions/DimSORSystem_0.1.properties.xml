@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_mhwHwC0-Eee23dPRFlpvYw" id="_mhuSkC0-Eee23dPRFlpvYw" label="DimSORSystem" creationDate="2017-04-29T20:47:35.484-0400" modificationDate="2017-04-29T20:51:40.769-0400" version="0.1" statusCode="" item="_mhwu0C0-Eee23dPRFlpvYw" displayName="DimSORSystem">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_mhwHwS0-Eee23dPRFlpvYw" path="Dimensions"/>
+  <TalendProperties:ProcessItem xmi:id="_mhwu0C0-Eee23dPRFlpvYw" property="_mhwHwC0-Eee23dPRFlpvYw" state="_mhwHwS0-Eee23dPRFlpvYw">
+    <process href="DimSORSystem_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

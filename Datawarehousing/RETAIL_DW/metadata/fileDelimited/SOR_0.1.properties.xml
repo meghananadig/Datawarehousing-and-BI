@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_3M5wACanEeeKXfEewdZ5ZA" id="_3M5I8CanEeeKXfEewdZ5ZA" label="SOR" purpose="flatfile with SOR table" creationDate="2017-04-21T11:33:26.399-0400" modificationDate="2017-04-21T11:31:58.575-0400" version="0.1" statusCode="" item="_3M5wAianEeeKXfEewdZ5ZA" displayName="SOR">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_3M5wASanEeeKXfEewdZ5ZA" path=""/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_3M5wAianEeeKXfEewdZ5ZA" property="_3M5wACanEeeKXfEewdZ5ZA" state="_3M5wASanEeeKXfEewdZ5ZA">
+    <connection href="SOR_0.1.item#_3M5I8SanEeeKXfEewdZ5ZA"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

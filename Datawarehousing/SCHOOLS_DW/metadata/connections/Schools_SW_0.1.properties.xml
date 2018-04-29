@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_fockcw2_EeeZu-8GbOd5zg" id="_R9fFwA2-EeeZu-8GbOd5zg" label="Schools_SW" purpose="oracle sql" creationDate="2017-03-20T18:49:37.079-0400" modificationDate="2017-03-20T21:06:53.004-0400" version="0.1" statusCode="" item="_fockdQ2_EeeZu-8GbOd5zg" displayName="Schools_SW">
+    <author href="../../talend.project#_s7Pxsg2HEeeNdv3lWpnl3A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_fockdA2_EeeZu-8GbOd5zg" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_fockdQ2_EeeZu-8GbOd5zg" property="_fockcw2_EeeZu-8GbOd5zg" state="_fockdA2_EeeZu-8GbOd5zg">
+    <connection href="Schools_SW_0.1.item#_fockcA2_EeeZu-8GbOd5zg"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

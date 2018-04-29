@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_jtEeASh6EeeeJKm7Udg65g" id="_jtEeACh6EeeeJKm7Udg65g" label="DomProductCost" creationDate="2017-04-23T19:14:10.528-0400" modificationDate="2017-04-25T21:54:36.171-0400" version="0.1" statusCode="" item="_jtEeAyh6EeeeJKm7Udg65g" displayName="DomProductCost">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jtEeAih6EeeeJKm7Udg65g" path="SCD"/>
+  <TalendProperties:ProcessItem xmi:id="_jtEeAyh6EeeeJKm7Udg65g" property="_jtEeASh6EeeeJKm7Udg65g" state="_jtEeAih6EeeeJKm7Udg65g">
+    <process href="DomProductCost_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

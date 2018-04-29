@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_4hPzYyYQEeea0u5mp4BJKA" id="_w0T84CYQEeea0u5mp4BJKA" label="Retail_SOR_EU" purpose="mySQL" creationDate="2017-04-20T17:32:41.238-0400" modificationDate="2017-04-26T04:13:37.815-0400" version="0.1" statusCode="" item="_4hPzZSYQEeea0u5mp4BJKA" displayName="Retail_SOR_EU">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_4hPzZCYQEeea0u5mp4BJKA" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_4hPzZSYQEeea0u5mp4BJKA" property="_4hPzYyYQEeea0u5mp4BJKA" state="_4hPzZCYQEeea0u5mp4BJKA">
+    <connection href="Retail_SOR_EU_0.1.item#_4hPzYCYQEeea0u5mp4BJKA"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

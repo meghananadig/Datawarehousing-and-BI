@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Cu8AQCbeEeeDPKYiDf3Cmw" id="_CupFUCbeEeeDPKYiDf3Cmw" label="Dim_Currency" creationDate="2017-04-21T18:01:16.581-0400" modificationDate="2017-04-21T18:00:27.874-0400" version="0.1" statusCode="" item="_Cu8AQibeEeeDPKYiDf3Cmw" displayName="Dim_Currency">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Cu8AQSbeEeeDPKYiDf3Cmw" path=""/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_Cu8AQibeEeeDPKYiDf3Cmw" property="_Cu8AQCbeEeeDPKYiDf3Cmw" state="_Cu8AQSbeEeeDPKYiDf3Cmw">
+    <connection href="Dim_Currency_0.1.item#_Cu7ZMCbeEeeDPKYiDf3Cmw"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

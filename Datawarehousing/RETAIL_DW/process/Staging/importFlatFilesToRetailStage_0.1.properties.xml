@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_D_Jt4SnyEeeLY8vsESEbKA" id="_D_Jt4CnyEeeLY8vsESEbKA" label="importFlatFilesToRetailStage" purpose="import to retail_stage" creationDate="2017-04-25T16:02:08.446-0400" modificationDate="2017-04-29T21:48:01.180-0400" version="0.1" statusCode="" item="_D_Jt4ynyEeeLY8vsESEbKA" displayName="importFlatFilesToRetailStage">
+    <author href="../../talend.project#_-RSKQiYOEeea0u5mp4BJKA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_D_Jt4inyEeeLY8vsESEbKA" path="Staging"/>
+  <TalendProperties:ProcessItem xmi:id="_D_Jt4ynyEeeLY8vsESEbKA" property="_D_Jt4SnyEeeLY8vsESEbKA" state="_D_Jt4inyEeeLY8vsESEbKA">
+    <process href="importFlatFilesToRetailStage_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

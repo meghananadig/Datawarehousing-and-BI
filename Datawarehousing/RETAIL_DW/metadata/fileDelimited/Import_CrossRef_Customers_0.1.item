@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_nz1cwSnzEeeLY8vsESEbKA" name="Import_CrossRef_Customers" dataPackage="_nz1cwinzEeeLY8vsESEbKA" Server="Localhost 127.0.0.1" FilePath="C:/Users/vishal/Desktop/DWBI - Final Project/SOR Flat Files/CrossRef_Customers.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_nz1cwinzEeeLY8vsESEbKA" name="default" dataManager="_nz1cwSnzEeeLY8vsESEbKA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_nz1cwynzEeeLY8vsESEbKA" id="_eQwkACnzEeeLY8vsESEbKA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nz1cxCnzEeeLY8vsESEbKA" label="CustomerKey" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nz1cxSnzEeeLY8vsESEbKA" label="CustomerLabel" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nz1cxinzEeeLY8vsESEbKA" label="CustomerType" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
